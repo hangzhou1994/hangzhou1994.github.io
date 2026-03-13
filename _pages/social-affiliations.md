@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 ### Journals
-* IEEE/ACM Transactions on Cognitive Communications and Networking(JCR-Q1): Reviewer
+* IEEE Transactions on Cognitive Communications and Networking(JCR-Q1): Reviewer
 * IEEE Network Magazine(JCR-Q1): Reviewer
 * ICT Express (JCR-Q1): Reviewer
 * Acta Electronica Sinica (CCF-A): Reviewer
