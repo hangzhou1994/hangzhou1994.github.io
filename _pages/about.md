@@ -25,7 +25,7 @@ Prior to joining PCL, he was a Project Researcher with the National Institute of
 * Postdoctoral Researcher<br>
   Peng Cheng Laboratory , China | 2025.04 – 2027.03 
 * Project Researcher<br>
-  National Institute of Informatics , Japan | 2024.05 – 2025.03
+  National Institute of Informatics , Japan | 2024.04 – 2025.03
 
 
 ## 🏆 Honors
