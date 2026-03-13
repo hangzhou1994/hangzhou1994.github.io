@@ -5,32 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+### Journal Articles
+* **Hang Zhou**, et al., "Energy Efficient Hybrid On-off Beamforming Coordination for Multi-Cell MISO Systems by Exploiting Deep Reinforcement Learning," *IEEE Internet of Things Journal*, 2025 (JCR-Q1)
+* **Hang Zhou**, et al., "Energy Efficient Beamforming for Small Cell Systems: A distributed Learning and Multicell Coordination Approach," *ACM Trans. Sen. Netw.*, 2023 (JCR-Q2)
+* **Hang Zhou**, et al., "Wireless Access Control in Edge-Aided Disaster Response: A Deep Reinforcement Learning-Based Approach," *IEEE Access*, 2021 (JCR-Q2)
 
-{% include base_path %}
+### Conference Proceedings
+* **Hang Zhou**, Yi-Han Chiang, Caijuan Chen, Xiaoyan Wang, Yusheng Ji, "Detecting Model Poisoning Attacks via Dummy Symbol Insertion for Secure Over-The-Air Federated Learning," *IEEE CCNC*, Jan. 2025 (Accepted)
+* **Hang Zhou**, Xiaoyan Wang, Masahiro Umehira and Yusheng Ji, "Deep Reinforcement Learning-Based On-Off Analog Beamforming Coordination for Downlink MISO Networks," *IEEE CyberSciTech*, Abu Dhabi, UAE, 2023, pp. 0240-0245
+* **Hang Zhou**, Xiaoyan Wang, Masahiro Umehira and Yusheng Ji, "A Deep Reinforcement Learning based Analog Beamforming Approach in Downlink MISO Systems," *IEEE 95th Vehicular Technology Conference (VTC2022-Spring)*, Helsinki, Finland, 2022, pp. 1-6
+* **Hang Zhou**, Xiaoyan Wang, Masahiro Umehira and Yusheng Ji, "Deep Reinforcement Learning based Access Control for Disaster Response Networks," *IEEE Global Communications Conference (GlobeCom)*, Taipei, Taiwan, 2020, pp. 1-6
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
 
 
 
