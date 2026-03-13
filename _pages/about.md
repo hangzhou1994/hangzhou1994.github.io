@@ -28,19 +28,8 @@ Dr. Zhou is the recipient of several prestigious awards, including the **JSPS Ea
 * **Project Researcher**
   National Institute of Informatics (NII), Japan | 2024.05 – 2025.03
 
-## 📝 Selected Publications
-### Journal Articles
-* **Hang Zhou**, et al., "Energy Efficient Hybrid On-off Beamforming Coordination for Multi-Cell MISO Systems by Exploiting Deep Reinforcement Learning," *IEEE Internet of Things Journal*, 2025 (JCR-Q1)
-* **Hang Zhou**, et al., "Energy Efficient Beamforming for Small Cell Systems: A distributed Learning and Multicell Coordination Approach," *ACM Trans. Sen. Netw.*, 2023 (JCR-Q2)
-* **Hang Zhou**, et al., "Wireless Access Control in Edge-Aided Disaster Response: A Deep Reinforcement Learning-Based Approach," *IEEE Access*, 2021 (JCR-Q2)
 
-### Conference Proceedings
-* **Hang Zhou**, Yi-Han Chiang, Caijuan Chen, Xiaoyan Wang, Yusheng Ji, "Detecting Model Poisoning Attacks via Dummy Symbol Insertion for Secure Over-The-Air Federated Learning," *IEEE CCNC*, Jan. 2025 (Accepted)
-* **Hang Zhou**, Xiaoyan Wang, Masahiro Umehira and Yusheng Ji, "Deep Reinforcement Learning-Based On-Off Analog Beamforming Coordination for Downlink MISO Networks," *IEEE CyberSciTech*, Abu Dhabi, UAE, 2023, pp. 0240-0245
-* **Hang Zhou**, Xiaoyan Wang, Masahiro Umehira and Yusheng Ji, "A Deep Reinforcement Learning based Analog Beamforming Approach in Downlink MISO Systems," *IEEE 95th Vehicular Technology Conference (VTC2022-Spring)*, Helsinki, Finland, 2022, pp. 1-6
-* **Hang Zhou**, Xiaoyan Wang, Masahiro Umehira and Yusheng Ji, "Deep Reinforcement Learning based Access Control for Disaster Response Networks," *IEEE Global Communications Conference (GlobeCom)*, Taipei, Taiwan, 2020, pp. 1-6
-
-## 🏆 Selected Honors
+## 🏆 Honors
 * **JSPS Early-Career Scientists Grant**
   Japan Society for the Promotion of Science | 2024 
 * **Scholarship for Foreign Researchers**
