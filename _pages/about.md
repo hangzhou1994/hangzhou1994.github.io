@@ -22,10 +22,10 @@ Prior to joining PCL, he was a Project Researcher with the National Institute of
   Wuhan University of Science and Technology, China | 2013.09 – 2017.06
 
 ## 💼 Positions & Employments
-* Postdoctoral Researcher
-  Peng Cheng Laboratory (PCL), China | 2025.04 – 2027.03 
-* Project Researcher
-  National Institute of Informatics (NII), Japan | 2024.05 – 2025.03
+* Postdoctoral Researcher<br>
+  Peng Cheng Laboratory , China | 2025.04 – 2027.03 
+* Project Researcher<br>
+  National Institute of Informatics , Japan | 2024.05 – 2025.03
 
 
 ## 🏆 Honors
