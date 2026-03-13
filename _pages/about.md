@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hang Zhou (周行) Profile"
+title: "Hang Zhou(周行)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
