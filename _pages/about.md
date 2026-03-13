@@ -37,6 +37,3 @@ Dr. Zhou is the recipient of several prestigious awards, including the **JSPS Ea
 * **Outstanding Student Award**
   Ibaraki University | 2020 
 
----
-**Contact:**
-* **Email:** zhouh04@pcl.ac.cn / zh185571483@gmail.com
