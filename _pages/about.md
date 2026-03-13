@@ -8,18 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-[cite_start]I am a Postdoctoral Researcher at **Peng Cheng Laboratory (PCL)**[cite: 18]. [cite_start]My research focuses on the intersection of wireless communications and artificial intelligence, specifically in Full-Decoupled Radio Access Networks (FD-RAN) and Deep Reinforcement Learning (DRL)[cite: 21, 29, 35]. 
+[cite_start]Hang Zhou received the B.E. degree from **Wuhan University of Science and Technology**, Wuhan, China, in 2017 [cite: 11, 27][cite_start], and the M.E. and Ph.D. degrees from **Ibaraki University**, Ibaraki, Japan, in 2021 and 2024, respectively[cite: 5, 8, 23, 25]. 
 
-[cite_start]Previously, I served as a Project Researcher at the **National Institute of Informatics (NII)** in Japan[cite: 15]. [cite_start]I received my Ph.D. in Engineering from **Ibaraki University** in 2024[cite: 5].
+[cite_start]He is currently a **Postdoctoral Researcher** with **Peng Cheng Laboratory**, Shenzhen, China[cite: 18]. [cite_start]Prior to this, he was a Project Researcher with the **National Institute of Informatics (NII)**, Tokyo, Japan[cite: 15]. [cite_start]He was a recipient of the **JSPS Early-Career Scientists Grant** in 2024 [cite: 48] [cite_start]and the **NEC C&C Foundation Scholarship** for Foreign Researchers in 2022[cite: 72]. 
+
+[cite_start]His research interests majorly focus on **Deep Reinforcement Learning (DRL)**, **Massive MIMO**, and **Cooperative Communications**[cite: 21, 35, 43].
 
 ## 🎓 Education
-* [cite_start]**Ph.D. in Electrical and Electronic System Engineering**, Ibaraki University, Japan [cite: 5, 10] | [cite_start]2021.04 – 2024.03 [cite: 23]
-* [cite_start]**M.E. in Electrical and Electronic System Engineering**, Ibaraki University, Japan [cite: 8, 10] | [cite_start]2019.04 – 2021.03 [cite: 25]
-* [cite_start]**B.E. in Electronic Information Engineering**, Wuhan University of Science and Technology, China [cite: 11, 12] | [cite_start]2013.09 – 2017.06 [cite: 27]
+* **Ph.D. in Electrical and Electronic System Engineering**, Ibaraki University, Japan | [cite_start]2021.04 – 2024.03 [cite: 5, 23]
+* **M.E. in Electrical and Electronic System Engineering**, Ibaraki University, Japan | [cite_start]2019.04 – 2021.03 [cite: 8, 25]
+* **B.E. in Electronic Information Engineering**, Wuhan University of Science and Technology, China | [cite_start]2013.09 – 2017.06 [cite: 11, 27]
 
 ## 💼 Professional Experience
-* [cite_start]**Postdoctoral Researcher**, Peng Cheng Laboratory (PCL), China [cite: 17, 18] | [cite_start]2025.04 – 2027.03 [cite: 28]
-* [cite_start]**Project Researcher**, National Institute of Informatics (NII), Japan [cite: 14, 15] | [cite_start]2024.05 – 2025.03 [cite: 31]
+* **Postdoctoral Researcher**, Peng Cheng Laboratory (PCL), China | [cite_start]2025.04 – 2027.03 [cite: 18, 28]
+* **Project Researcher**, National Institute of Informatics (NII), Japan | [cite_start]2024.05 – 2025.03 [cite: 15, 31]
 
 ## 📝 Selected Publications
 ### Journal Articles
@@ -31,12 +33,11 @@ redirect_from:
 * [cite_start]**Hang Zhou**, et al., "Detecting Model Poisoning Attacks via Dummy Symbol Insertion for Secure Over-The-Air Federated Learning," *IEEE CCNC*, 2025[cite: 60].
 * [cite_start]**Hang Zhou**, et al., "Deep Reinforcement Learning-Based On-Off Analog Beamforming Coordination for Downlink MISO Networks," *IEEE CyberSciTech*, 2023[cite: 61].
 
-## 🏆 Grants & Honors
-* [cite_start]**JSPS Early-Career Scientists Grant (青年基金)**, Japan Society for the Promotion of Science [cite: 47, 48] | 2024
-* [cite_start]**Scholarship for Foreign Researchers**, NEC C&C Foundation [cite: 72] | 2022
-* [cite_start]**Doctoral Course Scholarship**, Ibaraki University [cite: 71] | 2021, 2023
-* [cite_start]**Outstanding Student Award**, Ibaraki University [cite: 70] | 2020
+## 🏆 Selected Honors
+* **JSPS Early-Career Scientists Grant**, Japan Society for the Promotion of Science | [cite_start]2024 [cite: 48]
+* **Scholarship for Foreign Researchers**, NEC C&C Foundation | [cite_start]2022 [cite: 72]
+* **Outstanding Student Award**, Ibaraki University | [cite_start]2020 [cite: 70]
 
 ## 🛠️ Skills
 * [cite_start]**Languages**: Japanese (JLPT N1), English[cite: 67].
-* [cite_start]**Technical**: Python (Machine Learning), MATLAB[cite: 68].
+* [cite_start]**Technical**: Python, MATLAB[cite: 68].
