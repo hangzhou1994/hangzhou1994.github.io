@@ -38,8 +38,9 @@
         <li><a href="mailto:{{ author.email1 }}"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> {{ author.email1 }}</a></li>
       {% endif %}
       
+  
       {% if author.email2 %}
-        <li><a href="mailto:{{ author.email2 }}"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> {{ author.email2 }}</a></li>
+        <li class="author__desktop"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i>{{ author.email2 }}</li>
       {% endif %}
 
       <!-- Font Awesome and Academicons icons / Academic websites -->
