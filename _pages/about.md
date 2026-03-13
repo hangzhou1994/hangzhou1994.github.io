@@ -8,11 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hang Zhou is currently a Postdoctoral Researcher with **Peng Cheng Laboratory (PCL)**, Shenzhen, China. He received the B.E. degree in Electronic Information Engineering from Wuhan University of Science and Technology, China, in 2017, and the M.E. and Ph.D. degrees in Electrical and Electronic System Engineering from Ibaraki University, Japan, in 2021 and 2024, respectively.
+Hang Zhou is currently a Postdoctoral Researcher with Peng Cheng Laboratory , Shenzhen, China. He received the B.E. degree in Electronic Information Engineering from Wuhan University of Science and Technology, China, in 2017, and the M.E. and Ph.D. degrees in Electrical and Electronic System Engineering from Ibaraki University, Japan, in 2021 and 2024, respectively.
 
-Prior to joining PCL, he was a Project Researcher with the **National Institute of Informatics (NII)**, Tokyo, Japan. His research interests primarily focus on **Deep Reinforcement Learning (DRL)**, **Massive MIMO**, and **Cooperative Communications**.
+Prior to joining PCL, he was a Project Researcher with the National Institute of Informatics , Tokyo, Japan. His research interests primarily focus on Deep Reinforcement Learning, Massive MIMO, and Cooperative Communications.
 
-Dr. Zhou is the recipient of several prestigious awards, including the **JSPS Early-Career Scientists Grant** (2024) and the **NEC C&C Foundation Scholarship** for Foreign Researchers (2022).
 
 ## 🎓 Education
 * **Ph.D. in Electrical and Electronic System Engineering**
