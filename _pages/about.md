@@ -14,25 +14,25 @@ Prior to joining PCL, he was a Project Researcher with the National Institute of
 
 
 ## 🎓 Education
-* **Ph.D. in Electrical and Electronic System Engineering**
+* Ph.D. in Electrical and Electronic System Engineering
   Ibaraki University, Japan | 2021.04 – 2024.03 
-* **M.E. in Electrical and Electronic System Engineering**
+* M.E. in Electrical and Electronic System Engineering
   Ibaraki University, Japan | 2019.04 – 2021.03 
-* **B.E. in Electronic Information Engineering**
+* B.E. in Electronic Information Engineering
   Wuhan University of Science and Technology, China | 2013.09 – 2017.06
 
 ## 💼 Positions & Employments
-* **Postdoctoral Researcher**
+* Postdoctoral Researcher
   Peng Cheng Laboratory (PCL), China | 2025.04 – 2027.03 
-* **Project Researcher**
+* Project Researcher
   National Institute of Informatics (NII), Japan | 2024.05 – 2025.03
 
 
 ## 🏆 Honors
-* **JSPS Early-Career Scientists Grant**
+* JSPS Early-Career Scientists Grant
   Japan Society for the Promotion of Science | 2024 
-* **Scholarship for Foreign Researchers**
+* Scholarship for Foreign Researchers
   NEC C&C Foundation | 2022 
-* **Outstanding Student Award**
+* Outstanding Student Award
   Ibaraki University | 2020 
 
